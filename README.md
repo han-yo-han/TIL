@@ -4,17 +4,20 @@
 
 ### 2024-10-25
 
-- [REACT_NATIVE 기본개념 정리] (/REACT_NATIVE/basic-concepts.md)
+- [REACT_NATIVE 기본개념 정리](/REACT_NATIVE/basic-concepts.md)
 
-- [MARKDOWN 기본개념 정리] (/MARKDOWN/basic-concepts.md)
+- [MARKDOWN 기본개념 정리](/MARKDOWN/basic-concepts.md)
 
-- [LINUX commands 정리] (/LINUX/commands.md)
+- [LINUX commands 정리](/LINUX/commands.md)
 
 ---
 
 ## 📝 TIL 작성 가이드
 
-# [분야/대문자snakecase로/ex)REACT_NATIVE] [주제/소문자케밥케이스로/ex)basic-concepts]
+# [분야] [주제]
+
+- 분야: 대문자snakecase로 ex. REACT_NATIVE
+- 주제: 소문자케밥케이스로ex.basic-concepts
 
 ## 📚 학습 목표 간략히
 
